@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-rt7i2s04t4t#vfp_ittgsc5!q)(6+qg%1ch_(nlb0x^-q+!6o2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'serene-ocean-56148.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', 'shielded-journey-58568.herokuapp.com']
 
 
 # Application definition
